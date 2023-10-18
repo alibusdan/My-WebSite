@@ -69,6 +69,17 @@ body {
 	font-weight: bold;
 }
 
+.login {
+	background-color: #c0392b;
+	color: #fff;
+	border: 0 #c0392b solid;
+	font-size: 16px;
+	font-weight: bolder;
+	padding: 5px 5px;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
 .hero {
 	background-image: url('https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
 	background-repeat: no-repeat;
